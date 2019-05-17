@@ -4,4 +4,4 @@
 * gustavo.fernandes@cloudreach.com
 
 # Adding Dylan Martyn as owner of Jenkinsfiles PR's
-Jenkinsfile dylan.martyn@cloudreach.com
+Jenkinsfile .ciconf.yml .ci/ dylan.martyn@cloudreach.com
